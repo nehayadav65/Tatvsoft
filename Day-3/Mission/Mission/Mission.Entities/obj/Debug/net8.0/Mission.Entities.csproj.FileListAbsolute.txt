@@ -1,0 +1,14 @@
+C:\Users\ny656\Downloads\Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+C:\Users\ny656\Downloads\Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\ny656\Downloads\Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\ny656\Downloads\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+C:\Users\ny656\Downloads\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ny656\Downloads\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+C:\Users\ny656\Downloads\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+C:\Users\ny656\Downloads\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ny656\Downloads\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+C:\Users\ny656\Downloads\Mission\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+C:\Users\ny656\Downloads\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+C:\Users\ny656\Downloads\Mission\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
+C:\Users\ny656\Downloads\Mission\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.runtimeconfig.json
+C:\Users\ny656\Downloads\Mission\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.genruntimeconfig.cache
