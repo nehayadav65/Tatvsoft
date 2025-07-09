@@ -1,0 +1,63 @@
+D:\Codes\Internship\Day_5\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+D:\Codes\Internship\Day_5\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+D:\Codes\Internship\Day_5\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\Codes\Internship\Day_5\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+D:\Codes\Internship\Day_5\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+D:\Codes\Internship\Day_5\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+D:\Codes\Internship\Day_5\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Internship\Day_5\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+D:\Codes\Internship\Day_5\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+D:\Codes\Internship\Day_5\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+D:\Codes\Internship\Day_5\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.sourcelink.json
+D:\Codes\Internship\Day_5\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+D:\Codes\Internship\Day_5\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+D:\Codes\Internship\Day_5\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+D:\Codes\Internship\Day_5\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+D:\Codes\Internship\Day_5\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+D:\Codes\Internship\Day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+D:\Codes\Internship\Day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+D:\Codes\Internship\Day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\Codes\Internship\Day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+D:\Codes\Internship\Day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+D:\Codes\Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+D:\Codes\Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+D:\Codes\Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+D:\Codes\Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+D:\Codes\Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.sourcelink.json
+D:\Codes\Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+D:\Codes\Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+D:\Codes\Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+D:\Codes\Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+D:\Codes\Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+D:\Codes\TatvaSoft_Internship\Day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+D:\Codes\TatvaSoft_Internship\Day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+D:\Codes\TatvaSoft_Internship\Day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\Codes\TatvaSoft_Internship\Day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+D:\Codes\TatvaSoft_Internship\Day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+D:\Codes\TatvaSoft_Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+D:\Codes\TatvaSoft_Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\TatvaSoft_Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+D:\Codes\TatvaSoft_Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+D:\Codes\TatvaSoft_Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+D:\Codes\TatvaSoft_Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.sourcelink.json
+D:\Codes\TatvaSoft_Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+D:\Codes\TatvaSoft_Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+D:\Codes\TatvaSoft_Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+D:\Codes\TatvaSoft_Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+D:\Codes\TatvaSoft_Internship\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+C:\Users\ny656\Downloads\Telegram Desktop\Day_5\Day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+C:\Users\ny656\Downloads\Telegram Desktop\Day_5\Day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Users\ny656\Downloads\Telegram Desktop\Day_5\Day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\ny656\Downloads\Telegram Desktop\Day_5\Day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\ny656\Downloads\Telegram Desktop\Day_5\Day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\ny656\Downloads\Telegram Desktop\Day_5\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+C:\Users\ny656\Downloads\Telegram Desktop\Day_5\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ny656\Downloads\Telegram Desktop\Day_5\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+C:\Users\ny656\Downloads\Telegram Desktop\Day_5\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+C:\Users\ny656\Downloads\Telegram Desktop\Day_5\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\ny656\Downloads\Telegram Desktop\Day_5\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+C:\Users\ny656\Downloads\Telegram Desktop\Day_5\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+C:\Users\ny656\Downloads\Telegram Desktop\Day_5\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+C:\Users\ny656\Downloads\Telegram Desktop\Day_5\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\ny656\Downloads\Telegram Desktop\Day_5\Day_5\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
