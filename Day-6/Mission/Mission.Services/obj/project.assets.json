@@ -958,11 +958,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ny656\\OneDrive\\Desktop\\day-6\\Mission\\Mission.Services\\Mission.Services.csproj",
+      "projectUniqueName": "C:\\Users\\ny656\\Tatvsoft\\Day-6\\Mission\\Mission.Services\\Mission.Services.csproj",
       "projectName": "Mission.Services",
-      "projectPath": "C:\\Users\\ny656\\OneDrive\\Desktop\\day-6\\Mission\\Mission.Services\\Mission.Services.csproj",
+      "projectPath": "C:\\Users\\ny656\\Tatvsoft\\Day-6\\Mission\\Mission.Services\\Mission.Services.csproj",
       "packagesPath": "C:\\Users\\ny656\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ny656\\OneDrive\\Desktop\\day-6\\Mission\\Mission.Services\\obj\\",
+      "outputPath": "C:\\Users\\ny656\\Tatvsoft\\Day-6\\Mission\\Mission.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -984,8 +984,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ny656\\OneDrive\\Desktop\\day-6\\Mission\\Mission.Repositories\\Mission.Repositories.csproj": {
-              "projectPath": "C:\\Users\\ny656\\OneDrive\\Desktop\\day-6\\Mission\\Mission.Repositories\\Mission.Repositories.csproj"
+            "C:\\Users\\ny656\\Tatvsoft\\Day-6\\Mission\\Mission.Repositories\\Mission.Repositories.csproj": {
+              "projectPath": "C:\\Users\\ny656\\Tatvsoft\\Day-6\\Mission\\Mission.Repositories\\Mission.Repositories.csproj"
             }
           }
         }
