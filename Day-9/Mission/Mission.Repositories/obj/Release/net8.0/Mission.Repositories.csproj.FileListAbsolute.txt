@@ -1,0 +1,16 @@
+C:\Users\piyus\source\repos\Mission\Mission.Repositories\bin\Release\net8.0\Mission.Repositories.deps.json
+C:\Users\piyus\source\repos\Mission\Mission.Repositories\bin\Release\net8.0\Mission.Repositories.dll
+C:\Users\piyus\source\repos\Mission\Mission.Repositories\bin\Release\net8.0\Mission.Repositories.pdb
+C:\Users\piyus\source\repos\Mission\Mission.Repositories\bin\Release\net8.0\Mission.Entities.dll
+C:\Users\piyus\source\repos\Mission\Mission.Repositories\bin\Release\net8.0\Mission.Entities.pdb
+C:\Users\piyus\source\repos\Mission\Mission.Repositories\obj\Release\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+C:\Users\piyus\source\repos\Mission\Mission.Repositories\obj\Release\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piyus\source\repos\Mission\Mission.Repositories\obj\Release\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+C:\Users\piyus\source\repos\Mission\Mission.Repositories\obj\Release\net8.0\Mission.Repositories.AssemblyInfo.cs
+C:\Users\piyus\source\repos\Mission\Mission.Repositories\obj\Release\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\piyus\source\repos\Mission\Mission.Repositories\obj\Release\net8.0\Mission.Repositories.sourcelink.json
+C:\Users\piyus\source\repos\Mission\Mission.Repositories\obj\Release\net8.0\Mission..7EFB1ED9.Up2Date
+C:\Users\piyus\source\repos\Mission\Mission.Repositories\obj\Release\net8.0\Mission.Repositories.dll
+C:\Users\piyus\source\repos\Mission\Mission.Repositories\obj\Release\net8.0\refint\Mission.Repositories.dll
+C:\Users\piyus\source\repos\Mission\Mission.Repositories\obj\Release\net8.0\Mission.Repositories.pdb
+C:\Users\piyus\source\repos\Mission\Mission.Repositories\obj\Release\net8.0\ref\Mission.Repositories.dll
